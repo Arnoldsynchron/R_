@@ -1,2 +1,2 @@
 # R_projects
-Data science projects
+Data science projects with R
