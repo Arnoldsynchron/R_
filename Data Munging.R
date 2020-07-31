@@ -1,3 +1,4 @@
+# First Time Bah?----
 #apply,sapply, lapply, mapply
 #mapply - comparison of lists. multiple application of a function over lists simultaneously
 #apply -matrix appply
